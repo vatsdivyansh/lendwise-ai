@@ -117,12 +117,10 @@ if __name__ == '__main__':
         "email_retries": 0,
         "messages": []
     }
-    
     # stream through the nodes
     for output in app.stream(initial_state):
         for node_name, state_update in output.items():
             print(f"Finished Node: {node_name}")
-            
     # Final Result
     final_state = app.invoke(initial_state)
     print("\n" + "="*50)

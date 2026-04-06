@@ -1,0 +1,15 @@
+# Backend Architecture / Render Server Dependencies
+fastapi
+uvicorn
+pydantic
+langgraph
+langchain
+langchain-groq
+pymongo
+xgboost
+pandas
+numpy
+joblib
+python-dotenv
+scikit-learn
+PyPDF2

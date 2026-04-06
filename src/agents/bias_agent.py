@@ -1,6 +1,5 @@
 import pandas as pd
 
-
 def bias_detection_agent(decisions: list[dict]) -> dict:
     """
     Checks if approval rates differ significantly across gender groups.
@@ -23,6 +22,7 @@ def bias_detection_agent(decisions: list[dict]) -> dict:
 
     df = pd.DataFrame(decisions)
 
+    
     if 'person_gender' not in df.columns or 'decision' not in df.columns:
         return {
             'bias_detected':    False,

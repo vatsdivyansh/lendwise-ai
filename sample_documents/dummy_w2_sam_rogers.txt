@@ -1,0 +1,24 @@
+
+W-2 WAGE AND TAX STATEMENT 2023
+
+EMPLOYEE: Sam Rogers
+ADDRESS: 123 Main St, Springfield, OR 97477
+SSN: XXX-XX-1234
+
+EMPLOYER: TechCorp Inc.
+ADDRESS: 456 Tech Ave, Seattle, WA 98109
+EIN: 12-3456789
+
+WAGES, TIPS, OTHER COMP:  $24,000.00
+FEDERAL INCOME TAX:       $ 2,500.00
+SOCIAL SECURITY WAGES:    $24,000.00
+SOCIAL SECURITY TAX:      $ 1,488.00
+MEDICARE WAGES:           $24,000.00
+MEDICARE TAX:             $   348.00
+
+NOTES: 
+- Employee Age: 21
+- Employment Duration: 1 year
+- Gender: Male
+- High School Graduate
+
